@@ -1,1 +1,2 @@
 Adding some text to demo.txt
+Adding some more text - this tims from the local repo.
